@@ -1,8 +1,6 @@
 /*h1 element at top of body/ page*/
 .top-heading {
-    margin: auto;
     margin-bottom: 45px;
-    width: 75%;
     color: black;
     background-color: gray;
     border: solid white;
